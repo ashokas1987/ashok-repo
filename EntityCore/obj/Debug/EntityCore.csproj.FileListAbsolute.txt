@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\Prasana\Assignments\20_401413_PrasanaRavikumar\Twitter\EntityCore\bin\Debug\EntityCore.dll.config
+C:\Users\Admin\Desktop\Prasana\Assignments\20_401413_PrasanaRavikumar\Twitter\EntityCore\bin\Debug\EntityCore.dll
+C:\Users\Admin\Desktop\Prasana\Assignments\20_401413_PrasanaRavikumar\Twitter\EntityCore\bin\Debug\EntityCore.pdb
+C:\Users\Admin\Desktop\Prasana\Assignments\20_401413_PrasanaRavikumar\Twitter\EntityCore\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Prasana\Assignments\20_401413_PrasanaRavikumar\Twitter\EntityCore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Prasana\Assignments\20_401413_PrasanaRavikumar\Twitter\EntityCore\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Prasana\Assignments\20_401413_PrasanaRavikumar\Twitter\EntityCore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Prasana\Assignments\20_401413_PrasanaRavikumar\Twitter\EntityCore\obj\Debug\EntityCore.dll
+C:\Users\Admin\Desktop\Prasana\Assignments\20_401413_PrasanaRavikumar\Twitter\EntityCore\obj\Debug\EntityCore.pdb
+C:\Users\Admin\Desktop\Prasana\Assignments\20_401413_PrasanaRavikumar\Twitter\EntityCore\obj\Debug\EntityCore.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Prasana\Assignments\20_401413_PrasanaRavikumar\Twitter\EntityCore\obj\Debug\EntityCore.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Prasana\Assignments\20_401413_PrasanaRavikumar\Twitter\EntityCore\obj\Debug\EntityCore.csproj.CopyComplete
